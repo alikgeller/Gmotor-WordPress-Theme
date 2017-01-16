@@ -1,0 +1,65 @@
+/*
+Theme Name: Gmotor
+Theme URI: https://github.com/alikgeller/Gmotor-WordPress-Theme
+Author: Alik Geller
+Author URI: https://github.com/alikgeller
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: gmotor
+Tags:
+
+*/
+
+.site-footer{
+	text-align: center;
+}
+
+.header-nav{
+	float: right;
+	width: 100%;
+	text-align: right;
+}
+
+.img-header{
+
+
+}
+.site-branding{
+	float: right;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white !important;
+    background-color: #337ab7 !important;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+		font-weight: bolder;
+}
+/* title */
+.navbar-default .navbar-brand {
+    color: #777;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+/* link */
+.navbar-default .navbar-nav>li>a{
+    color: #777;
+		font-size: 16px;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu{
+	text-align: right;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #2774ae !important;
+}
